@@ -12,6 +12,11 @@ A small Java Swing desktop app with two tools:
    largest requirement first, packed contiguously) and shows the full
    breakdown for each allocated subnet.
 
+----------------------------------------------------------------------------------------------------------------------------------
+<img width="963" height="714" alt="image" src="https://github.com/user-attachments/assets/f9c0c659-2db3-4941-a25c-00a80cd30dec" />
+<img width="963" height="714" alt="ip2" src="https://github.com/user-attachments/assets/851dfb18-2d27-439a-b76b-a5e39ae09f59" />
+
+
 ## How to import into Eclipse
 
 1. Open Eclipse → `File > Import... > General > Existing Projects into Workspace`.
@@ -22,7 +27,6 @@ A small Java Swing desktop app with two tools:
    this folder, and Eclipse will pick up the existing `src` tree.
 4. Right-click `Main.java` (in `com.epsilon.subnetexplorer`) →
    `Run As > Java Application`.
-
 Requires JDK 8 or newer. No external libraries — pure Java SE (Swing only).
 
 ## Project structure
