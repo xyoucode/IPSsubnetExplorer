@@ -13,7 +13,7 @@ A small Java Swing desktop app with two tools:
    breakdown for each allocated subnet.
 
 ----------------------------------------------------------------------------------------------------------------------------------
-<img width="963" height="714" alt="image" src="https://github.com/user-attachments/assets/f9c0c659-2db3-4941-a25c-00a80cd30dec" />
+<img width="965" height="710" alt="ip1" src="https://github.com/user-attachments/assets/6d8cb215-35f7-4569-9f5e-abe0f9992e2c" />
 <img width="963" height="714" alt="ip2" src="https://github.com/user-attachments/assets/851dfb18-2d27-439a-b76b-a5e39ae09f59" />
 
 
